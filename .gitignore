@@ -1,0 +1,12 @@
+
+.svn
+.cachesrc
+.tmp
+.download
+output
+node_modules
+.*.swp
+.*.swo
+package-*
+.DS_Store
+.idea
